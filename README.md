@@ -1,4 +1,5 @@
-# FlexExample
+# Angular Material with Flexgid Styling Example
+An example of using Angular, Angular Material and some Flexgrid CSS styling.
 ## References
 [The Ultimate CSS Flexbox Guide for Beginners video](https://www.youtube.com/watch?v=E1T_tjgaCqU)
 ## Tools Used
