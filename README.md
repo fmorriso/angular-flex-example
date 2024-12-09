@@ -19,7 +19,7 @@ An example of using Angular, Angular Material and some Flexgrid CSS styling.
 | 2024-12-08 | Initial creation                              |
 
 ## Angular/CLI Notes
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli)  19.0.2.
 
 # References
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
