@@ -17,6 +17,8 @@ An example of using Angular, Angular Material and some Flexgrid CSS styling.
 | Date       | Description                                   |
 |:-----------|:----------------------------------------------|
 | 2024-12-08 | Initial creation                              |
+
+## Angular/CLI Notes
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
 # References
