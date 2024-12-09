@@ -1,7 +1,24 @@
 # FlexExample
 
+## Tools Used
+
+| Tool             |  Version |
+|:-----------------|---------:|
+| @Angular/CLI     |   19.0.2 |
+| Angular          |   19.0.1 |
+| Angular/Material |   19.0.2 |
+| WebStorm         | 2024.3.0 |
+| VSCode           |   1.95.3 |
+
+## Change History
+
+| Date       | Description                                   |
+|:-----------|:----------------------------------------------|
+| 2024-12-08 | Initial creation                              |
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
+# References
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
