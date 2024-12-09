@@ -1,5 +1,6 @@
 # FlexExample
-
+## References
+[The Ultimate CSS Flexbox Guide for Beginners video](https://www.youtube.com/watch?v=E1T_tjgaCqU)
 ## Tools Used
 
 | Tool             |  Version |

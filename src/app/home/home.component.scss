@@ -1,0 +1,19 @@
+$square-size: 3rem;
+
+.container {
+  border: 1px solid blue;
+  background-color: gray;
+  height: $square-size * 4;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: start;
+}
+
+.item {
+  border: 1px solid red;
+  width: $square-size;
+  height: $square-size;
+  background-color: coral;
+
+}
