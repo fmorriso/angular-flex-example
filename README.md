@@ -22,7 +22,7 @@ An example of using Angular, Angular Material and some Flexgrid CSS styling.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)  19.0.2.
 
 # References
-[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
